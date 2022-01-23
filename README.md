@@ -4,10 +4,10 @@
   - Software Development
   - Computer Networks
 - 🌱 I’m currently learning ...
-  - Jekyll
   - NoSQL
 - 💞️ I’m looking to collaborate on ...
   - Open Source projects
+  - Cybersecurity-related stuff
 - 📫 How to reach me ...
   - yonjae.lee.93@gmail.com
   - yonjlee@protonmail.com (secure)
