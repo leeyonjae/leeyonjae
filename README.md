@@ -2,12 +2,12 @@
 - 👀 I’m interested in ...
   - Cybersecurity
   - Software Development
-  - Computer Networks
+  - Computer Network Management
 - 🌱 I’m currently learning ...
   - NoSQL
 - 💞️ I’m looking to collaborate on ...
-  - Open Source projects
-  - Cybersecurity-related stuff
+  - Cybersecurity-related projects
+  - Localization (English <--> Korean)
 - 📫 How to reach me ...
   - yonjae.lee.93@gmail.com
   - yonjlee@protonmail.com (secure)
