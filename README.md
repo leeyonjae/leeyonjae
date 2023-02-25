@@ -5,7 +5,8 @@
   - Software Development
   - Computer Network Management
 - 🌱 I’m currently learning ...
-  - NoSQL
+  - CEP
+  - Esper
 - 💞️ I’m looking to collaborate on ...
   - Cybersecurity-related projects
   - Localization (English <--> Korean) (my works at [Crowdin](https://crowdin.com/profile/yonjlee/activity) and [Weblate](https://hosted.weblate.org/user/yonjlee/))
